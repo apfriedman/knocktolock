@@ -1,4 +1,4 @@
-Locks mac screen with Knock to Unlock app API.
+Alfred App Workflow to locks OSX screen using the Knock to Unlock app API.
 
-Required Knock to Unlock 1.0.12.
+Requires Knock to Unlock 1.0.12.
 http://www.knocktounlock.com/
